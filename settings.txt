@@ -1,0 +1,10 @@
+Enable a developer mode in mobile
+
+adb start -server
+
+adb devices
+
+
+chrome://inspect
+
+chrome://inspect/#devices
